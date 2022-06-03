@@ -1,0 +1,3 @@
+[submodule "plugins/type-script"]
+	path = plugins/type-script
+	url = https://github.com/SUNRUSE/dreck-type-script-plugin
